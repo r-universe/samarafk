@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MLML2R"]
+	path = MLML2R
+	url = https://github.com/samarafk/mlml2r
+	shallow = true
+	registered = true
