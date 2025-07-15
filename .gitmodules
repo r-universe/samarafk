@@ -5,3 +5,6 @@
 [submodule "MLML2R"]
 	path = MLML2R
 	url = https://github.com/samarafk/mlml2r
+[submodule "multimediate"]
+	path = multimediate
+	url = https://github.com/samarafk/multimediate
